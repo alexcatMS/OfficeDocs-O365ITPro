@@ -70,7 +70,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
     
 1. Go to **Users** \> **Active Users**, select your account from the list, and then choose **Edit** in the **Username** row in the left pane. 
     
-2. Choosea different domain:  *contoso.com* 
+2. Choose a different domain:  *contoso.com* 
     
 3. Choose **Set as primary**, choose **Save**, and then **Close**.
     
